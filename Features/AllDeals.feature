@@ -1,4 +1,4 @@
-﻿Feature: All deals
+﻿Feature: All Groupon Deals
 	I need to store all my awesome groupon deals in a file.	
 
 Scenario:  Save all my deals
